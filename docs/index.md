@@ -5,7 +5,7 @@ title: J. Bird Resume
 # J. Bird
 
 <div id="webaddress">
-<a href="bir17004@byui.edu">datascience@byui.edu</a>
+<a href="bir17004@byui.edu">bir17004@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
