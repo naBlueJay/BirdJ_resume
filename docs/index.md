@@ -23,21 +23,17 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Related Experience
 
-### Internships
-
-__None, as of yet__
-
-- I am working on acquiring one
-
 
 ### Work History 
 
 `December 2017 - Current`
 __Walgreens__, Shift Lead
 
+- Tracked cash flow and reporting inaccuracies if any are present.
+- Tracked store metrics.
+- Tracking third-party vendor item movement.
 - Identified flaws in workflow.
 - Worked with team members to improve efficiency and time management.
-- Tracked store metrics.
 - Collected data on store performance
 - Ensured accuracy of collected data
 
