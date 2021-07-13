@@ -25,7 +25,6 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ### Internships
 
-`January 2028 - June 2028`
 __None, as of yet__
 
 - I am working on acquiring one
