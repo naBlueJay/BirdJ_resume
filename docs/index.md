@@ -18,8 +18,6 @@ title: J. Bird Resume
 `Expected 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 3.0 Major GPA
-
 
 ## Related Experience
 
